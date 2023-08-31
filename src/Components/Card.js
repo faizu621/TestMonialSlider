@@ -17,7 +17,7 @@ const Card=(props)=>{
                 <FaQuoteLeft/>
             </div>
 
-            <div className='mt-5 px-[50px] text-center text-slate-500 ' >
+            <div className='mt-5 sm:px-[50px] px-2 text-center text-slate-500 ' >
                 <p> {review.text} </p>
             </div>
             <div className=' mt-5 text-violet-400 '>

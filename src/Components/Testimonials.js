@@ -34,7 +34,7 @@ const Testimonials = (props) =>{
     }
 
     return(
-        <div className=" w-[45vw] flex flex-col justify-center items-center bg-[white] mt-10 rounded-md " >
+        <div className=" lg:w-[45vw] w-[90vw] flex flex-col justify-center items-center bg-[white] lg:mt-10 mt-24   rounded-md " >
             <Card review={reviews[index]} />
             <div className=" mt-10 text-3xl text-violet-400 flex gap-3 justify-center items-center " >
                 <button className=" cursor-pointer hover:text-violet-500 transition-all duration-200" >
