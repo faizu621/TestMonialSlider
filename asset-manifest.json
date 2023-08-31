@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TestMonialSlider/static/css/main.c8b5657f.css",
+    "main.js": "/TestMonialSlider/static/js/main.b68f1b5a.js",
+    "index.html": "/TestMonialSlider/index.html",
+    "main.c8b5657f.css.map": "/TestMonialSlider/static/css/main.c8b5657f.css.map",
+    "main.b68f1b5a.js.map": "/TestMonialSlider/static/js/main.b68f1b5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8b5657f.css",
+    "static/js/main.b68f1b5a.js"
+  ]
+}
